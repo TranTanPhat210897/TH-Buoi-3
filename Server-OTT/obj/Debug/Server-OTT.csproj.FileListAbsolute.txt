@@ -1,0 +1,6 @@
+F:\Study\LapTrinhMang\TH-Buoi-3\Server-OTT\bin\Debug\Server-OTT.exe.config
+F:\Study\LapTrinhMang\TH-Buoi-3\Server-OTT\bin\Debug\Server-OTT.exe
+F:\Study\LapTrinhMang\TH-Buoi-3\Server-OTT\bin\Debug\Server-OTT.pdb
+F:\Study\LapTrinhMang\TH-Buoi-3\Server-OTT\obj\Debug\Server-OTT.csprojResolveAssemblyReference.cache
+F:\Study\LapTrinhMang\TH-Buoi-3\Server-OTT\obj\Debug\Server-OTT.exe
+F:\Study\LapTrinhMang\TH-Buoi-3\Server-OTT\obj\Debug\Server-OTT.pdb

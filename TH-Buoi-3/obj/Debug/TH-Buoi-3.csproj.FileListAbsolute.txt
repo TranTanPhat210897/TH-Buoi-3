@@ -1,0 +1,9 @@
+F:\Study\LapTrinhMang\TH-Buoi-3\TH-Buoi-3\bin\Debug\TH-Buoi-3.exe.config
+F:\Study\LapTrinhMang\TH-Buoi-3\TH-Buoi-3\bin\Debug\TH-Buoi-3.exe
+F:\Study\LapTrinhMang\TH-Buoi-3\TH-Buoi-3\bin\Debug\TH-Buoi-3.pdb
+F:\Study\LapTrinhMang\TH-Buoi-3\TH-Buoi-3\obj\Debug\TH-Buoi-3.csprojResolveAssemblyReference.cache
+F:\Study\LapTrinhMang\TH-Buoi-3\TH-Buoi-3\obj\Debug\TH_Buoi_3.Properties.Resources.resources
+F:\Study\LapTrinhMang\TH-Buoi-3\TH-Buoi-3\obj\Debug\TH-Buoi-3.csproj.GenerateResource.Cache
+F:\Study\LapTrinhMang\TH-Buoi-3\TH-Buoi-3\obj\Debug\TH-Buoi-3.exe
+F:\Study\LapTrinhMang\TH-Buoi-3\TH-Buoi-3\obj\Debug\TH-Buoi-3.pdb
+F:\Study\LapTrinhMang\TH-Buoi-3\TH-Buoi-3\obj\Debug\TH_Buoi_3.Client.resources
